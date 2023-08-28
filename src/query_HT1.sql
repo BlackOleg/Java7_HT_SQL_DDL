@@ -1,5 +1,5 @@
 create schema myhometask;
-CREATE table myhometask.PERSONS (
+CREATE table myhometask.persons (
     name VARCHAR(20),
     surname VARCHAR(50),
     age INT ,
